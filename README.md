@@ -1,2 +1,2 @@
-# uvPrediction
-Always use prediction!
+# coefficiency
+Always use (UV) prediction!
